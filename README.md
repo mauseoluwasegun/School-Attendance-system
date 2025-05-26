@@ -132,7 +132,7 @@ As a lecturer:
 This project is licensed under the MIT License.
 
 📧 Support
-For any issues or inquiries, feel free to reach out via email: [Francis Njenga](mailto:irokomause.com).
+For any issues or inquiries, feel free to reach out via email: [iroko mause](mailto:irokomause.com).
 
 ### Visit My Website
 
